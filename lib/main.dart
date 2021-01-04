@@ -19,9 +19,6 @@ void main() {
   startMeUp();
 }
 
-/// ********************************************************************************************************************
-/// Main app widget.
-/// ********************************************************************************************************************
 class FlutterBook extends StatelessWidget {
   Widget build(BuildContext inContext) {
     return MaterialApp(
