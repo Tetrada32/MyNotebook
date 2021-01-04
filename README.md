@@ -1,7 +1,7 @@
 # MyNotebook
 
 ## This sample app is based on "Apress/prectical-flutter" repository. Thanks to Frank Zametti for his book [*Practical Flutter* (http://www.apress.com/9781484249710) (Apress, 2019)
-## Это приложение-образец основано на репозозитории "Apress/prectical-flutter. Выражаю благодарность Франку Заметти за его книгу [*Practical Flutter*](http://www.apress.com/9781484249710) (Apress, 2019) 
+## Это приложение-образец основано на репозитории "Apress/prectical-flutter. Выражаю благодарность Франку Заметти за его книгу [*Practical Flutter*](http://www.apress.com/9781484249710) (Apress, 2019) 
 
 
 ![Обложка книги](https://github.com/Apress/practical-flutter/blob/master/9781484249710.jpg?raw=true)
